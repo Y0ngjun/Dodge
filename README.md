@@ -10,3 +10,6 @@ Unity 로 제작한 3D 탄막 슈팅 게임입니다.
 
 ## 플레이 링크
 https://play.unity.com/en/games/1aac3591-9855-4515-a7ac-2c336c18dfdb/dodge11web
+
+## Reference
+[**소문난 명강의_레트로의 유니티 6 게임 프로그래밍 에센스 3판**](https://www.hanbit.co.kr/store/books/look.php?p_code=B8935295136)
